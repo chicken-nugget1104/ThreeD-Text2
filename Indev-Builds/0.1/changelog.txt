@@ -1,0 +1,5 @@
+CHANGES:
+- Removed some random unused code from MainManager
+- Changed sample text to lorem ipsum text.
+- Added sandstone and leafy grass as materials in EditTextSelection.
+- Added "Experimental features" to EditTextSelection that makes it so specialmesh does not use fabric as the material. (ONLY TOGGABLE THROUGH PUTTING THE RBXM INTO YOUR THING AND CHANGING IT!)
